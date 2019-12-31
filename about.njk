@@ -1,0 +1,7 @@
+{% set blox = htmlWebpackPlugin.options.blox %}
+{% set title = "About" %}
+{% extends "layout/layout.njk" %}
+{% block content %}
+    {% import "packages/components/blox.component-package.about/blox.component.bio.quiz/bio.njk" as bio %}
+    {% call bio.default(blox) %}{% endcall %}
+{% endblock %}
