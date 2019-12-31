@@ -10,4 +10,4 @@ A [Building Blox](https://github.com/Building-Blox/building-blox) about page.
 
 ## Blocks
 #### Components
-- bio [blox.component.bio.quiz]()
+- bio [blox.component.bio.quiz](https://github.com/richjava/blox.component.bio.quiz)
