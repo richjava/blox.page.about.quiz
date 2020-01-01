@@ -1,9 +1,0 @@
----
-partialPackages:
-       - name: blox.partial-package.navigation
-         blocks:
-            - name: blox.partial.nav.quiz
-componentPackages:
-       - name: blox.component-package.about
-         blocks:
-            - name: blox.component.bio.quiz
