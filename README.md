@@ -2,6 +2,8 @@
 
 A [Building Blox](https://github.com/Building-Blox/building-blox) about page.
 
+![About Page](https://building-blox.s3.amazonaws.com/quiz/about-page.PNG)
+
 ## Features
 - Bio section
 
